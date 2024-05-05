@@ -1,0 +1,1 @@
+print('Ano atual:',2024)
